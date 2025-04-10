@@ -1,0 +1,107 @@
+{
+  "trip_summary": {
+    "type": "Round Trip",
+    "route": "New York (JFK) to Los Angeles (LAX)",
+    "departure_date": "2025-05-01",
+    "return_date": "2025-05-10",
+    "price_range": "$192 (low)"
+  },
+  "outbound_options": [
+    {
+      "price": "$192",
+      "duration": "6h 11m",
+      "recommended": true,
+      "departure": "2025-05-01 11:30",
+      "arrival": "2025-05-01 14:41",
+      "airlines": "Frontier",
+      "stops": 0,
+      "layover_info": [],
+      "segments_info": [
+        {
+          "flight": "Frontier F9 2503",
+          "from": "JFK at 2025-05-01 11:30",
+          "to": "LAX at 2025-05-01 14:41",
+          "duration": "6h 11m",
+          "aircraft": "Airbus A321neo"
+        }
+      ]
+    },
+    {
+      "price": "$312",
+      "duration": "6h 10m",
+      "recommended": true,
+      "departure": "2025-05-01 06:00",
+      "arrival": "2025-05-01 09:10",
+      "airlines": "Delta",
+      "stops": 0,
+      "layover_info": [],
+      "segments_info": [
+        {
+          "flight": "Delta DL 701",
+          "from": "JFK at 2025-05-01 06:00",
+          "to": "LAX at 2025-05-01 09:10",
+          "duration": "6h 10m",
+          "aircraft": "Boeing 767"
+        }
+      ]
+    },
+    {
+      "price": "$312",
+      "duration": "6h 19m",
+      "recommended": true,
+      "departure": "2025-05-01 08:01",
+      "arrival": "2025-05-01 11:20",
+      "airlines": "JetBlue",
+      "stops": 0,
+      "layover_info": [],
+      "segments_info": [
+        {
+          "flight": "JetBlue B6 523",
+          "from": "JFK at 2025-05-01 08:01",
+          "to": "LAX at 2025-05-01 11:20",
+          "duration": "6h 19m",
+          "aircraft": "Airbus A320"
+        }
+      ]
+    },
+    {
+      "price": "$312",
+      "duration": "6h 14m",
+      "recommended": false,
+      "departure": "2025-05-01 06:05",
+      "arrival": "2025-05-01 09:19",
+      "airlines": "JetBlue",
+      "stops": 0,
+      "layover_info": [],
+      "segments_info": [
+        {
+          "flight": "JetBlue B6 123",
+          "from": "JFK at 2025-05-01 06:05",
+          "to": "LAX at 2025-05-01 09:19",
+          "duration": "6h 14m",
+          "aircraft": "Airbus A320"
+        }
+      ]
+    },
+    {
+      "price": "$312",
+      "duration": "6h 10m",
+      "recommended": false,
+      "departure": "2025-05-01 07:00",
+      "arrival": "2025-05-01 10:10",
+      "airlines": "Delta",
+      "stops": 0,
+      "layover_info": [],
+      "segments_info": [
+        {
+          "flight": "Delta DL 742",
+          "from": "JFK at 2025-05-01 07:00",
+          "to": "LAX at 2025-05-01 10:10",
+          "duration": "6h 10m",
+          "aircraft": "Airbus A330-900neo"
+        }
+      ]
+    }
+  ],
+  "return_options": []
+}

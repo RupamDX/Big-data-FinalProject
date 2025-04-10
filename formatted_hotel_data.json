@@ -1,0 +1,514 @@
+{
+  "query_details": {
+    "location": "New York hotels",
+    "check_in": "2025-05-01",
+    "check_out": "2025-05-05",
+    "total_results": 20
+  },
+  "hotel_options": [
+    {
+      "name": "Hyatt Grand Central New York",
+      "class": "4\u2605",
+      "rating": "4/5 (7883 reviews)",
+      "price": {
+        "nightly": "$376",
+        "total": "$1,506"
+      },
+      "key_amenities": [
+        "Breakfast ($)",
+        "Free Wi-Fi",
+        "Parking ($)",
+        "Air conditioning",
+        "Pet-friendly",
+        "Fitness centre",
+        "Bar",
+        "Restaurant",
+        "Room service",
+        "Full-service laundry"
+      ],
+      "location_highlights": [
+        "Grand Central Terminal (2 min by Walking)",
+        "Grand Central-42 St (2 min by Walking)",
+        "John F. Kennedy International Airport (32 min by Taxi)"
+      ],
+      "booking_link": "https://www.hyatt.com/en-US/hotel/new-york/hyatt-grand-central-new-york/nycgh?src=corp_lclb_google_seo_nycgh&utm_source=google&utm_medium=organic&utm_campaign=lmr"
+    },
+    {
+      "name": "SoHo 54 Hotel",
+      "class": "3\u2605",
+      "rating": "3.5/5 (828 reviews)",
+      "price": {
+        "nightly": "$263",
+        "total": "$1,052"
+      },
+      "key_amenities": [
+        "Breakfast",
+        "Free Wi-Fi",
+        "Air conditioning",
+        "Fitness centre",
+        "Restaurant",
+        "Accessible",
+        "Child-friendly",
+        "Smoke-free property"
+      ],
+      "location_highlights": [
+        "Brooklyn Bridge (8 min by Taxi)",
+        "Canal St (3 min by Walking)",
+        "John F. Kennedy International Airport (41 min by Taxi)"
+      ],
+      "booking_link": "https://www.soho54hotel.com/?utm_source=google&utm_medium=organic&utm_campaign=business-listing"
+    },
+    {
+      "name": "Motto by Hilton New York City Chelsea",
+      "class": "4\u2605",
+      "rating": "4.3/5 (1205 reviews)",
+      "price": {
+        "nightly": "$349",
+        "total": "$1,396"
+      },
+      "key_amenities": [
+        "Breakfast ($)",
+        "Free Wi-Fi",
+        "Parking",
+        "Air conditioning",
+        "Pet-friendly",
+        "Fitness centre",
+        "Bar",
+        "Restaurant",
+        "Room service",
+        "Full-service laundry"
+      ],
+      "location_highlights": [
+        "Flatiron Building (7 min by Walking)",
+        "23 St (2 min by Walking)",
+        "John F. Kennedy International Airport (38 min by Taxi)"
+      ],
+      "booking_link": "https://www.hilton.com/en/hotels/nycdlua-motto-new-york-city-chelsea/?SEO_id=GMB-AMER-UA-NYCDLUA&y_source=1_Mjc3MjkzNzctNzE1LWxvY2F0aW9uLndlYnNpdGU%3D"
+    },
+    {
+      "name": "Graduate by Hilton New York",
+      "class": "4\u2605",
+      "rating": "4.1/5 (935 reviews)",
+      "price": {
+        "nightly": "$339",
+        "total": "$1,355"
+      },
+      "key_amenities": [
+        "Breakfast ($)",
+        "Free Wi-Fi",
+        "Parking ($)",
+        "Air conditioning",
+        "Pet-friendly",
+        "Fitness centre",
+        "Bar",
+        "Restaurant",
+        "Full-service laundry",
+        "Accessible"
+      ],
+      "location_highlights": [
+        "Roosevelt Island (5 min by Walking)",
+        "John F. Kennedy International Airport (40 min by Taxi)",
+        "Anything At All (1 min by Walking)"
+      ],
+      "booking_link": "https://www.hilton.com/en/hotels/nycgngu-graduate-new-york/?SEO_id=GMB-AMER-GU-NYCGNGU&y_source=1_MTA1MzY0NDc0MS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D"
+    },
+    {
+      "name": "Sheraton New York Times Square Hotel",
+      "class": "4\u2605",
+      "rating": "3.9/5 (10949 reviews)",
+      "price": {
+        "nightly": "$386",
+        "total": "$1,546"
+      },
+      "key_amenities": [
+        "Breakfast ($)",
+        "Wi-Fi ($)",
+        "Parking ($)",
+        "Air conditioning",
+        "Pet-friendly",
+        "Fitness centre",
+        "Bar",
+        "Restaurant",
+        "Full-service laundry",
+        "Accessible"
+      ],
+      "location_highlights": [
+        "The Museum of Modern Art (4 min by Walking)",
+        "7 Av (1 min by Walking)",
+        "John F. Kennedy International Airport (41 min by Taxi)"
+      ],
+      "booking_link": "https://www.marriott.com/en-us/hotels/nycst-sheraton-new-york-times-square-hotel/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0"
+    },
+    {
+      "name": "Pendry Manhattan West",
+      "class": "5\u2605",
+      "rating": "4.8/5 (184 reviews)",
+      "price": {
+        "nightly": "$893",
+        "total": "$3,571"
+      },
+      "key_amenities": [
+        "Breakfast ($)",
+        "Free Wi-Fi",
+        "Parking",
+        "Air conditioning",
+        "Pet-friendly",
+        "Fitness centre",
+        "Bar",
+        "Restaurant",
+        "Room service",
+        "Kitchen in some rooms"
+      ],
+      "location_highlights": [
+        "The High Line (2 min by Walking)",
+        "34 St-Hudson Yards (5 min by Walking)",
+        "John F. Kennedy International Airport (44 min by Taxi)"
+      ],
+      "booking_link": "https://www.pendry.com/manhattan-west/"
+    },
+    {
+      "name": "DoubleTree by Hilton Hotel Fort Lee - George Washington Bridge",
+      "class": "4\u2605",
+      "rating": "3.7/5 (2305 reviews)",
+      "price": {
+        "nightly": "$189",
+        "total": "$755"
+      },
+      "key_amenities": [
+        "Breakfast ($)",
+        "Free Wi-Fi",
+        "Free parking",
+        "Air conditioning",
+        "Fitness centre",
+        "Bar",
+        "Restaurant",
+        "Room service",
+        "Full-service laundry",
+        "Accessible"
+      ],
+      "location_highlights": [
+        "Main St at Bergen Blvd (6 min by Walking)",
+        "John F. Kennedy International Airport (39 min by Taxi)"
+      ],
+      "booking_link": "https://www.hilton.com/en/hotels/ftlfldt-doubletree-fort-lee-george-washington-bridge/?SEO_id=GMB-AMER-DT-FTLFLDT&y_source=1_MTM3MjcxMC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D"
+    },
+    {
+      "name": "Sky Hotel Flushing",
+      "class": "N/A",
+      "rating": "3.8/5 (227 reviews)",
+      "price": {
+        "nightly": "$163",
+        "total": "$652"
+      },
+      "key_amenities": [
+        "Free Wi-Fi",
+        "Parking ($)",
+        "Air conditioning",
+        "Child-friendly",
+        "Smoke-free property"
+      ],
+      "location_highlights": [
+        "Main St/39 Av (5 min by Walking)",
+        "John F. Kennedy International Airport (23 min by Taxi)"
+      ],
+      "booking_link": "http://skyhotelny.com/"
+    },
+    {
+      "name": "Royalton New York",
+      "class": "4\u2605",
+      "rating": "3.9/5 (1255 reviews)",
+      "price": {
+        "nightly": "$353",
+        "total": "$1,412"
+      },
+      "key_amenities": [
+        "Wi-Fi ($)",
+        "Parking ($)",
+        "Air conditioning",
+        "Pet-friendly",
+        "Fitness centre",
+        "Accessible",
+        "Business centre",
+        "Child-friendly",
+        "Smoke-free property"
+      ],
+      "location_highlights": [
+        "Bryant Park (4 min by Walking)",
+        "42 St-Bryant Pk (5 min by Walking)",
+        "John F. Kennedy International Airport (36 min by Taxi)"
+      ],
+      "booking_link": "http://www.royaltonhotel.com/"
+    },
+    {
+      "name": "AC Hotel New York Downtown",
+      "class": "3\u2605",
+      "rating": "4.3/5 (1179 reviews)",
+      "price": {
+        "nightly": "$312",
+        "total": "$1,249"
+      },
+      "key_amenities": [
+        "Breakfast ($)",
+        "Free Wi-Fi",
+        "Air conditioning",
+        "Fitness centre",
+        "Restaurant",
+        "Accessible",
+        "Business centre",
+        "Child-friendly",
+        "Smoke-free property"
+      ],
+      "location_highlights": [
+        "Brooklyn Bridge (9 min by Public transport)",
+        "Wall St (7 min by Walking)",
+        "John F. Kennedy International Airport (39 min by Taxi)"
+      ],
+      "booking_link": "https://www.marriott.com/en-us/hotels/nyclf-ac-hotel-new-york-downtown/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0"
+    },
+    {
+      "name": "Arlo Midtown",
+      "class": "4\u2605",
+      "rating": "4.4/5 (1428 reviews)",
+      "price": {
+        "nightly": "$328",
+        "total": "$1,313"
+      },
+      "key_amenities": [
+        "Breakfast ($)",
+        "Free Wi-Fi",
+        "Parking ($)",
+        "Air conditioning",
+        "Pet-friendly",
+        "Fitness centre",
+        "Bar",
+        "Restaurant",
+        "Full-service laundry",
+        "Accessible"
+      ],
+      "location_highlights": [
+        "Times Square (10 min by Public transport)",
+        "34 St - Penn Station (7 min by Walking)",
+        "John F. Kennedy International Airport (39 min by Taxi)"
+      ],
+      "booking_link": "https://www.arlohotels.com/midtown?utm_source=google&utm_medium=Local+SEO&utm_campaign=Google+Business+Profile"
+    },
+    {
+      "name": "The One Boutique Hotel",
+      "class": "3\u2605",
+      "rating": "3.3/5 (984 reviews)",
+      "price": {
+        "nightly": "$168",
+        "total": "$673"
+      },
+      "key_amenities": [
+        "Free Wi-Fi",
+        "Parking",
+        "Air conditioning",
+        "Bar",
+        "Restaurant",
+        "Accessible",
+        "Smoke-free property"
+      ],
+      "location_highlights": [
+        "Union St/35 Av (3 min by Walking)",
+        "John F. Kennedy International Airport (24 min by Taxi)"
+      ],
+      "booking_link": "http://theone-ny.com/"
+    },
+    {
+      "name": "Fairfield Inn & Suites New York Staten Island",
+      "class": "4\u2605",
+      "rating": "3.8/5 (559 reviews)",
+      "price": {
+        "nightly": "$174",
+        "total": "$698"
+      },
+      "key_amenities": [
+        "Free breakfast",
+        "Free Wi-Fi",
+        "Free parking",
+        "Air conditioning",
+        "Fitness centre",
+        "Full-service laundry",
+        "Accessible",
+        "Child-friendly",
+        "Smoke-free property"
+      ],
+      "location_highlights": [
+        "Victory Blvd/Glen St (7 min by Walking)",
+        "John F. Kennedy International Airport (42 min by Taxi)",
+        "Da Noi (3 min by Taxi)"
+      ],
+      "booking_link": "https://www.marriott.com/en-us/hotels/nycfd-fairfield-inn-and-suites-new-york-staten-island/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0"
+    },
+    {
+      "name": "Outsite New York - Chelsea",
+      "class": "N/A",
+      "rating": "4.4/5 (58 reviews)",
+      "price": {
+        "nightly": "$310",
+        "total": "$1,239"
+      },
+      "key_amenities": [],
+      "location_highlights": [
+        "The High Line (8 min by Walking)",
+        "23 St (3 min by Walking)",
+        "John F. Kennedy International Airport (40 min by Taxi)"
+      ],
+      "booking_link": "https://www.outsite.co/locations/new-york-chelsea"
+    },
+    {
+      "name": "YOTEL New York Times Square",
+      "class": "3\u2605",
+      "rating": "3.9/5 (8728 reviews)",
+      "price": {
+        "nightly": "$317",
+        "total": "$1,267"
+      },
+      "key_amenities": [
+        "Breakfast ($)",
+        "Free Wi-Fi",
+        "Parking ($)",
+        "Air conditioning",
+        "Fitness centre",
+        "Bar",
+        "Restaurant",
+        "Accessible",
+        "Business centre",
+        "Child-friendly"
+      ],
+      "location_highlights": [
+        "Times Square (8 min by Public transport)",
+        "42 St-Port Authority Bus Terminal (9 min by Walking)",
+        "John F. Kennedy International Airport (42 min by Taxi)"
+      ],
+      "booking_link": "https://www.yotel.com/en/hotels/yotel-new-york?utm_source=Google&utm_medium=Yext_YONYC"
+    },
+    {
+      "name": "The Manhattan at Times Square Hotel",
+      "class": "3\u2605",
+      "rating": "3.1/5 (9100 reviews)",
+      "price": {
+        "nightly": "$334",
+        "total": "$1,336"
+      },
+      "key_amenities": [
+        "Breakfast",
+        "Free Wi-Fi",
+        "Parking",
+        "Air conditioning",
+        "Pet-friendly",
+        "Fitness centre",
+        "Restaurant",
+        "Golf",
+        "Accessible",
+        "Business centre"
+      ],
+      "location_highlights": [
+        "Rockefeller Center (5 min by Walking)",
+        "7 Av (1 min by Walking)",
+        "John F. Kennedy International Airport (40 min by Taxi)"
+      ],
+      "booking_link": "https://www.ihg.com/spnd/hotels/us/en/new-york/nycat/hoteldetail"
+    },
+    {
+      "name": "Q4 Hotel New York City",
+      "class": "3\u2605",
+      "rating": "3.7/5 (828 reviews)",
+      "price": {
+        "nightly": "$140",
+        "total": "$558"
+      },
+      "key_amenities": [
+        "Free Wi-Fi",
+        "Air conditioning",
+        "Accessible",
+        "Smoke-free property"
+      ],
+      "location_highlights": [
+        "Queens Plaza (4 min by Walking)",
+        "John F. Kennedy International Airport (34 min by Taxi)"
+      ],
+      "booking_link": "https://www.q4hotelny.com/#"
+    },
+    {
+      "name": "Paramount Times Square - A Generator Hotel",
+      "class": "4\u2605",
+      "rating": "3.5/5 (6755 reviews)",
+      "price": {
+        "nightly": "$299",
+        "total": "$1,198"
+      },
+      "key_amenities": [
+        "Breakfast",
+        "Free Wi-Fi",
+        "Air conditioning",
+        "Pet-friendly",
+        "Fitness centre",
+        "Bar",
+        "Full-service laundry",
+        "Accessible",
+        "Child-friendly",
+        "Smoke-free property"
+      ],
+      "location_highlights": [
+        "Times Square (2 min by Walking)",
+        "50 St (6 min by Walking)",
+        "John F. Kennedy International Airport (39 min by Taxi)"
+      ],
+      "booking_link": "https://staygenerator.com/hotels/new-york/paramount-times-square?utm_source=google-my-business&utm_medium=organic&utm_campaign=paramount"
+    },
+    {
+      "name": "Best Home To Visit NYC-Subway Access - Four-Bedroom House",
+      "class": "N/A",
+      "rating": "No ratings",
+      "price": {
+        "nightly": "$165",
+        "total": "$659"
+      },
+      "key_amenities": [
+        "Air conditioning",
+        "Beach access",
+        "Crib",
+        "Elevator",
+        "Heating",
+        "Indoor pool",
+        "Ironing board",
+        "Kitchen",
+        "Microwave",
+        "Outdoor grill"
+      ],
+      "location_highlights": [
+        "Ferry St at Union St (3 min by Walking)",
+        "John F. Kennedy International Airport (57 min by Taxi)",
+        "SAGRES BAR AND GRILL (2 min by Walking)"
+      ],
+      "booking_link": "https://www.bluepillow.com/search/6398e45ac551970d3c73f4f0?dest=bkng&cat=House&p_id=589e00cc7c00cb10c8daf9e1"
+    },
+    {
+      "name": "Nice Apartment with NYC Skyline views nearby",
+      "class": "N/A",
+      "rating": "4.7/5 (16 reviews)",
+      "price": {
+        "nightly": "$264",
+        "total": "$1,058"
+      },
+      "key_amenities": [
+        "Air conditioning",
+        "Fireplace",
+        "Heating",
+        "Microwave",
+        "Smoke-free",
+        "Cable TV",
+        "Free parking",
+        "Free Wi-Fi"
+      ],
+      "location_highlights": [
+        "Bergenline Ave at 68th St (3 min by Walking)",
+        "John F. Kennedy International Airport (1 hr by Taxi)",
+        "El Sombrero (3 min by Walking)"
+      ],
+      "booking_link": "N/A"
+    }
+  ]
+}
