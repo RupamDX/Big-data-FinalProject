@@ -12,3 +12,4 @@ The Real-Time Personalized Travel Planner is an integrated platform designed to 
   Receive up-to-date travel advisories and notifications.
 - **User-Friendly Interface:**  
   An interactive UI built with Streamlit for seamless navigation and planning.
+![WhatsApp Image 2025-04-11 at 6 07 19 PM](https://github.com/user-attachments/assets/36bdb9c7-0c98-4a53-b39e-221d9298ffa8)
